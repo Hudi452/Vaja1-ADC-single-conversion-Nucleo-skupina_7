@@ -12,5 +12,5 @@ FOTOGRAFIJA vezja:\
 VIDEO POSNETEK delovanja:\
 ![video](https://github.com/Hudi452/Vaja1-ADC-single-conversion-Nucleo-skupina_7/blob/main/Vaja1-enkratnaADCpretvorba-ezgif.com-optimize.gif)
 
-
+ODGOVORI NA VPRAŠANJA:\
 
