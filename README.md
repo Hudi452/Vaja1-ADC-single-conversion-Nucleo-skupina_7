@@ -9,6 +9,8 @@ IZREZEK konfiguaracijskega okna (ADC3, configuration):\
 FOTOGRAFIJA vezja:\
 ![vezje](https://github.com/Hudi452/Vaja1-ADC-single-conversion-Nucleo-skupina_7/blob/main/Slika%20vezja.jpg)
 
-VIDEO POSNETEK delovanja:
+VIDEO POSNETEK delovanja:\
+
+
 
 
