@@ -18,5 +18,10 @@ c)Razvojna plošča Nucleo-L476RG ima 3 ADC pretvornike.\
 d)Trikotnika s klicaji poleg ADC1 in ADC2 predstavljata konflikt med ADC in drugimi periferijami, saj nekateri vhodi ADC uporabljajo pine, ki so že zasedeni.\
 To omejitev lahko razrešimo tako, da vsem pinom, na katerih so ADC vhodi izklopimo obstoječe funkcije. To so pini PA5, PA2 in PA3.\
 e)V ADC3 so štirje vhodi (IN1, IN2, IN3 in IN4).\
-
+f)Poleg pina se izpiše ADC3_IN1. To je pin PC0.\
+i)Možne ločljivosti pretvorbe in območja vrednosti:\
+  a)6-bitna, od 0 do 63,\
+  b)8-bitna, od 0 do 255,\
+  c)10-bitna, od 0 do 1023,\
+  d)12-bitna, od 0 do 4095.\
 
