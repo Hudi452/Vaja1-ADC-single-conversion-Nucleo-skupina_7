@@ -105,8 +105,9 @@ int main(void)
 		adcValue = HAL_ADC_GetValue(&hadc3);
 	}
 	HAL_ADC_Stop(&hadc3);
+	HAL_Delay(100);
   }
-  HAL_Delay(100);
+ 
 
   /* USER CODE END 3 */
 }
@@ -298,3 +299,4 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
