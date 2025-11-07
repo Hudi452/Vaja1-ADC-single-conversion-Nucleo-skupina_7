@@ -25,3 +25,7 @@ i)Možne ločljivosti pretvorbe in območja vrednosti:\
    10-bitna, od 0 do 1023,\
    12-bitna, od 0 do 4095.\
 
+KOMENTAR NA DELOVANJE:\
+Program deluje po pričakovanjih. 8-bitna vrednost se z vrtenjem potenciometra spreminja od 0 do 255. Vrednost je shranjena v spremenljivko adcValue, katere vrednost se izpiše v Debugger načinu pod Live Expressions.\
+
+
