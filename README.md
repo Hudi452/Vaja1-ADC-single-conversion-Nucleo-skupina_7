@@ -3,7 +3,7 @@
 PINOUT slika:\
 ![pinout](https://github.com/Hudi452/Vaja1-ADC-single-conversion-Nucleo-skupina_7/blob/main/CubeMX.png)
 
-IZREZEK konfiguaracijskega okna:\
+IZREZEK konfiguaracijskega okna (ADC3, configuration):\
 ![konfig](https://github.com/Hudi452/Vaja1-ADC-single-conversion-Nucleo-skupina_7/blob/main/Izrezek%20konfiguracijskega%20okna.png)
 
 FOTOGRAFIJA vezja:
